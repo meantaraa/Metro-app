@@ -8,10 +8,11 @@ This Java application models a metro system using an undirected graph. It allows
 4. Find the shortest travel time between two stations.
 5. Compute the shortest path (distance-wise) between two stations.
 6. Compute the shortest path (time-wise) between two stations.
-   
-# Getting Started
-1. Compile the code: javac Graph_M.java
-2. Run the application: java Graph_M
+
+# Installation
+1. Clone the repository: git clone https://github.com/your-repo/metro-app.git
+2. Compile the code: javac Graph_M.java
+3. Run the application: java Graph_M
    
 # Code Structure
 1. Graph_M: Main class that contains methods for adding vertices (stations), adding edges (connections), and finding paths.
