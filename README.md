@@ -31,9 +31,6 @@ This Java application models a metro system using an undirected graph. It allows
 8. Get_Minimum_Distance(String src, String dst): Finds the shortest path distance-wise.
 9. Get_Minimum_Time(String src, String dst): Finds the shortest path time-wise.
 
-# License
-This project is licensed under the MIT License. See the LICENSE file for details.
-
 # Acknowledgements
 Java Standard Library for data structures and algorithms.
 Metro systems around the world for inspiration.
